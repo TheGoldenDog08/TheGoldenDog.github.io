@@ -1,0 +1,60 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+  color: #505050;
+}
+
+#MyLogo img{
+  float: right;   
+  
+  position: absolute;
+
+  top: 15px;
+  left: 260px;
+}
+
+h2{
+  color: #6b6b6b;
+}
+
+#PSTB img{
+  float: right;   
+  
+  position: absolute;
+
+  top: 425px;
+  left: 330px;
+}
+
+a{
+  color: #0096ff;
+}
+
+#gamejolt a{
+  float: right;   
+  
+  position: absolute;
+
+  top: 25px;
+  left: 340px;
+}
+
+#game a{
+  float: right;   
+  
+  position: absolute;
+
+  top: 25px;
+  left: 500px;
+}
+
+#GamesLogo img{
+  float: right;   
+  
+  position: absolute;
+
+  top: 15px;
+  left: 1380px;
+}
